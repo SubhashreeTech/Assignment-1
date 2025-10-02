@@ -1,0 +1,45 @@
+VEP Analysis Summary
+
+
+1) Total variants: 228055
+2) Unique genes: 14674
+3) Unique traits/disease conditions: 3
+
+4) Pathogenic Variants: 0 (No pathogenic variants found)
+
+   Likely Pathogenic Variants: 0 (No likely pathogenic variants found)
+   
+   Variants with having conficting pathogenicity (unique): 1
+
+5) Per-Chromosome Summary:
+#No. of variants per chromosome
+1     22067
+19    18625
+11    18059
+17    15733
+2     14747
+3     13761
+12    11830
+6     11408
+4     10548
+16    10547
+5     10295
+7      9355
+10     9150
+14     8390
+9      8352
+15     7696
+8      6101
+22     5717
+20     4435
+13     3821
+18     2926
+21     2450
+X      2040
+Y         2
+Name: chr, dtype: int64
+
+
+Variants without rsIDs:30726
+Variants with rsIDs:0
+
